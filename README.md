@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <a href='https://drive.google.com/file/d/1WccJLdjP9YlNhkvzxRaHJF4Khr8gKUpP/view?usp=sharing'>Video Walkthrough</a>
+
 GIF created with ScreenToGif
 
 ## Notes
