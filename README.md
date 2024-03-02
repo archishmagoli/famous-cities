@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented required features:
 
-<img src='https://drive.google.com/file/d/1WccJLdjP9YlNhkvzxRaHJF4Khr8gKUpP/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://drive.google.com/file/d/1WccJLdjP9YlNhkvzxRaHJF4Khr8gKUpP/view?usp=sharing'>Video Walkthrough</a>
 GIF created with ScreenToGif
 
 ## Notes
