@@ -16,7 +16,7 @@ function App() {
   const cityData = [
     {
         "id": 1,
-        "name" : "New York City, USA",
+        "name" : "New York City, United States",
         "link" : "https://en.wikipedia.org/wiki/New_York_City",
         "image" : newYork
     },
